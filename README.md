@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.15]**
+[DexRobot灵巧智能 - 灵巧操作基础模型 - 研究实习生](./2025/DexRobot灵巧智能-研究实习生-灵巧操作基础模型.md)
+
 **[2025.8.14]**
 [腾讯RoboticsX实验室 - 具身智能方向 - 实习生](https://www.xiaohongshu.com/explore/689981a20000000005005eb1?note_flow_source=wechat&xsec_token=ABHCM5cemUQ0M6aqXqVjJ8mm8Ihg1V1jsoTze1yuRlCP0=)
 
